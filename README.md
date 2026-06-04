@@ -1,161 +1,101 @@
 <h1 align="center">Hi 👋, I'm Gaurav Jha</h1>
 
-<h3 align="center">
-Data Science & AI Enthusiast | Machine Learning Engineer | Backend Developer
-</h3>
+<h3 align="center">🚀 Data Science | Machine Learning | Python | Power BI | NLP | SQL | Firebase | Data Visualization</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Machine+Learning+%26+Data+Science;Backend+Development;NLP+%26+Generative+AI;Always+Learning+Something+New" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravjha-codes&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Backend+Developer;Machine+Learning+Engineer;NLP+%26+Data+Visualization+Lover;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```python
-class GauravJha:
-
-    def __init__(self):
-        self.role = "Data Science & AI Enthusiast"
-        self.languages = ["Python", "SQL"]
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Natural Language Processing",
-            "Backend Development",
-            "Data Analytics"
-        ]
-
-    def current_focus(self):
-        return [
-            "LLMs",
-            "RAG Systems",
-            "AI Agents",
-            "Advanced NLP"
-        ]
-```
-
-- 🔭 Building AI-powered applications and intelligent study tools
-- 🌱 Learning Advanced NLP, LLMs and Retrieval-Augmented Generation
-- 💡 Passionate about solving real-world problems with AI
-- 📊 Love working with data, analytics, and predictive models
-- ⚡ Always exploring new technologies and frameworks
+- 🎓 Passionate about **Artificial Intelligence, Data Science, and Backend Development**
+- 🤖 Building AI-powered applications using **Python, NLP, LLMs, and Machine Learning**
+- 📊 Interested in **Data Analytics, Visualization, and Predictive Modeling**
+- 🔥 Love solving real-world problems through technology
+- 🌱 Currently exploring **Advanced NLP, RAG Systems, and AI Agents**
+- 💡 Open to collaboration on AI, ML, and Backend projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-### Machine Learning & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-- Scikit-Learn
-- LightGBM
-- NLP
-- Deep Learning
-- Generative AI
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,firebase" />
-</p>
+### AI / Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge)
 
 ### Data Science
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Data Visualization
-- Feature Engineering
+### Backend & Databases
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 AI SQL Database Insights
+### 🔹 AI SQL Database Insights
+AI-powered database analytics platform that converts natural language queries into SQL operations and generates meaningful insights from local or remote databases.
 
-AI-powered analytics platform that converts natural language queries into SQL operations and generates actionable insights from databases.
+### 🔹 AI Study Assistant
+An intelligent study assistant that uses AI for content generation, learning support, and productivity enhancement.
 
-### 📚 AI Study Assistant
+### 🔹 Credit Default Prediction
+Machine Learning system built using Python, Scikit-Learn, and LightGBM to predict loan default risks through advanced feature engineering and model optimization.
 
-An intelligent learning platform powered by AI for content generation, study support, and productivity enhancement.
+### 🔹 Fine-Tuned Embedding Model
+Custom MiniLM-based sentence embedding model designed for semantic search and information retrieval tasks.
 
-### 💳 Credit Default Prediction
-
-Machine Learning model built using Python, Scikit-Learn, and LightGBM for predicting loan default risks.
-
-### 🔍 Fine-Tuned Embedding Model
-
-MiniLM-based sentence embedding model optimized for semantic similarity and information retrieval.
-
-### ✍️ Handwritten Digit Classifier
-
-TensorFlow-based neural network for handwritten digit recognition with confidence prediction.
+### 🔹 Handwritten Digit Classifier
+Neural network implementation using TensorFlow for handwritten digit recognition with confidence scoring.
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gauravjha-codes&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravjha-codes&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravjha-codes&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravjha-codes&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gauravjha-codes&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravjha-codes&layout=compact&theme=tokyonight" />
+</p>
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gauravjha-codes&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🎯 Currently Exploring
+## 🎯 Current Focus
 
 - Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
 - AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- Semantic Search
-- Deep Learning
+- Natural Language Processing
+- Backend Architecture
+- Data Analytics & Visualization
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="mailto:developer.huu@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-</p>
-
----
-
-## 💭 Quote
-
-> "Turning data into insights and ideas into intelligent solutions."
+- 📧 Email: developer.huu@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gauravabhayjha
 
 ---
 
 <p align="center">
-⭐ If you like my projects, consider giving them a star!
+  <b>⚡ Building intelligent solutions with AI, Data, and Code ⚡</b>
 </p>
